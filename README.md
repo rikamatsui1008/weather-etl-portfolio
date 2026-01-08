@@ -34,8 +34,8 @@ APIデータ取得からDB格納までの一連の流れを通して、
 
 ## 処理イメージ
 
-OpenWeather API
-      ↓
-   Python（ETL）
-      ↓
+OpenWeather API  
+      ↓  
+   Python（ETL）  
+      ↓  
      MySQL
